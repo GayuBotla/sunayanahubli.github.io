@@ -87,7 +87,7 @@ $(document).ready(function(){
 		restaurentData = JSON.parse(restaurentData);
 		console.log(restaurentData);
 		var htmlData = "<div class='main_block'>";
-		var defaultImg = "https://media-cdn.tripadvisor.com/media/photo-l/0c/e9/03/ef/photo9jpg.jpg";
+		var defaultImg = "https://media-cdn.tripadvisor.com/media/photo-t/05/cf/13/3e/brie-onion-tart.jpg";
 		var defaultName = "Chipotle";
 		var defaultEmail = "info@email.com";
 		if(!!restaurentData.length){
